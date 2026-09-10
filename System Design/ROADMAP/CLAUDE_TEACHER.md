@@ -56,6 +56,8 @@ So we can keep frequently used products in Redis.
 Now most requests can be answered from memory instead of
 going to the database."
 
+Whenever I am coming with any topic that I saw this or know this topic, still you should give bit overview on that topic and then continue as what I have told you.
+
 That's the style I want.
 
 ==================================================
